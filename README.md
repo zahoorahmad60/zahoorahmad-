@@ -80,7 +80,7 @@ I'm **Zahoor Ahmad**, an AI Engineer based in **Pakistan** with a passion for de
 
 ###  DevOps Course Learning outcomes  ###
  I have shared a repository of my all learning resources which i was abale to learn and add into this repository in the supervision of Sir Saim Safddar :) 
-  [github.com/zahoor-ahmad/ai-chatbot](https://github.com/zahoorahmad60/MyLearnings-DevOps)
+  [github.com/zahoor-ahmad/DevOps-Learning-Outcomes](https://github.com/zahoorahmad60/MyLearnings-DevOps)
 
 ## 📝 Projects
 
