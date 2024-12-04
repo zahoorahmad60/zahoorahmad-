@@ -55,15 +55,15 @@ I'm **Zahoor Ahmad**, an AI Engineer based in **Pakistan** with a passion for de
 
 ## 💼 Experience
 
-### AI Engineer | [Tech Innovators]  
-*June 2020 – Present*
+### AI Engineer | [@Folio3]  
+*June 2024 – Present*
 
 - Developed and deployed machine learning models to enhance product recommendations, increasing user engagement by 25%.
 - Led a team of 5 engineers in designing AI-driven solutions for data analysis and automation.
 - Implemented natural language processing algorithms to improve customer support chatbots.
 
-### Software Developer | [Data Solutions](https://datasolutions.com)  
-*January 2021 – May 2021*
+### Software Developer | [Data Solutions](https://folio3.com)  
+*January 2021 – May 2022*
 
 - Designed and maintained scalable databases using MySQL, optimizing query performance by 30%.
 - Developed backend services in Python and C++ for data processing and analysis.
