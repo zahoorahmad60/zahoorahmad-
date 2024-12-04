@@ -55,15 +55,15 @@ I'm **Zahoor Ahmad**, an AI Engineer based in **Pakistan** with a passion for de
 
 ## 💼 Experience
 
-### AI Engineer | [Tech Innovators](https://techinnovators.com)  
-*June 2021 – Present*
+### AI Engineer | [Tech Innovators]  
+*June 2020 – Present*
 
 - Developed and deployed machine learning models to enhance product recommendations, increasing user engagement by 25%.
 - Led a team of 5 engineers in designing AI-driven solutions for data analysis and automation.
 - Implemented natural language processing algorithms to improve customer support chatbots.
 
 ### Software Developer | [Data Solutions](https://datasolutions.com)  
-*January 2019 – May 2021*
+*January 2021 – May 2021*
 
 - Designed and maintained scalable databases using MySQL, optimizing query performance by 30%.
 - Developed backend services in Python and C++ for data processing and analysis.
@@ -100,6 +100,7 @@ A CI/CD pipeline setup using Docker and AWS to streamline the deployment process
 
 ## 📫 Get in Touch
 
-- **Email**: [zahoor.ahmad@example.com](mailto:zahoor.ahmad@example.com)
-- **LinkedIn**: [linkedin.com/in/zahoor-ahmad](https://linkedin.com/in/zahoor-ahmad)
+- **Email**: [zahoor.ahmad@example.com](mailto:zah4922@gmail.com)
+- **LinkedIn**: [linkedin.com/in/zahoor-ahmad](www.linkedin.com/in/
+zahoor-ahme)
 - **Twitter**: [@ZahoorAI](https://twitter.com/ZahoorAI)
